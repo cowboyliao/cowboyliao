@@ -2,7 +2,7 @@
 
 - I am a beginner of coding and always be, not only a student from cqupt,  but also a soul wandering about universe. :computer::computer_mouse:
 
-- As a ==chinese== I am proud for my country.:cn::panda_face:
+- As a **chinese** I am proud for my country.:cn::panda_face:
 - I like doing something new so I am gald to know you. :cherry_blossom:
 
 - you can email me e191902@foxmail.com :happy:

@@ -1,4 +1,22 @@
-https://www.yuque.com/lkqqry
+# Tools I LOVE:
+Neovim
+Suckless
+Archlinux
+ThinkpadX230
 
-什么!删库居然会影响contribution记录,我傻了...
+# language I LOVE:
+C
+Go
+Lua
+Rust
 
+
+# I am working on:
+Rustlings
+Rust in action
+CSAPP
+Assembly
+
+# Dreaming
+rust embedded
+BME developer in China
